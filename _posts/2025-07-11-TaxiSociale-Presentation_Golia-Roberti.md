@@ -1,6 +1,6 @@
 ---
 title: "TaxiAI"
-date: 2025-07-11 15:22:53 +0200
+date: 2025-07-11 08:00:00 +0200
 categories: projects
 img_url: https://unisalento-idalab-iotcourse-2024-2025.github.io/wot-project-presentation-RobertiGolia/images/architettura2.png
 site_url: "https://unisalento-idalab-iotcourse-2024-2025.github.io/wot-project-presentation-RobertiGolia/"

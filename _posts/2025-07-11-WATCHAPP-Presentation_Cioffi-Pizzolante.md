@@ -1,6 +1,6 @@
 ---
 title: "WATCHAPP"
-date: 2025-07-11 15:22:53 +0200
+date: 2025-07-11 08:00:00 +0200
 categories: projects
 img_url: https://raw.githubusercontent.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-2024-2025-Presentation-PizzolanteCioffi/main/Visualizza Profilo.jpg
 site_url: "https://unisalento-idalab-iotcourse-2024-2025.github.io/wot-project-2024-2025-Presentation-PizzolanteCioffi/"
