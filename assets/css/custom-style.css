@@ -1,0 +1,36 @@
+.moreInfo
+{
+	padding: 0px;
+}
+
+.project-container
+{
+	width: 100%;
+}
+
+.moreInfo2
+{
+	padding: 0px;
+	margin-top: 10px;
+}
+
+#courseInfo
+{
+	width:50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.project_buttons_container
+{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.project_buttons_container a
+{
+	margin-bottom: 10px;
+	
+}

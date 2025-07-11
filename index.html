@@ -1,0 +1,77 @@
+---
+title: Dopetrope
+layout: landing
+---
+  
+	<body class="homepage">
+	{% include header_landing.html %}
+
+		<!-- Main -->
+			<div id="main-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="12u">
+
+							<!-- Student's projects -->
+								<section>
+									<header class="major">
+										<h2>Student's projects</h2>
+									</header>
+									<div class="row projects-container">
+										{% assign projects = site.categories.projects | sort: 'title' %}
+										{% assign index = 0 %}
+  										{% for project in projects %}
+											{% assign index = index | plus: 1 %}
+											{% capture thecycle %}
+												{% cycle 'odd', 'even' %}
+											{% endcapture %}
+
+											{% if thecycle contains 'odd' %}
+												</div>
+												<div class="row">
+											{% endif %}
+											<div class="6u">
+												<section class="box single-project-container">
+													<a href="{{ project.site_url }}" class="image featured project_image"><span class="resizedImg"><img src="{{ project.img_url }}" alt="" /></span></a>
+													<header>
+														<h3>{{ project.title }}</h3>
+													</header>
+													<p>{{ project.description }}</p>
+													<footer>
+														<div class="project_buttons_container">
+															<a href="{{ project.site_url }}" class="button alt">Project details</a>
+															<br/>
+															{% if project.project_url1 != ""%}
+																<a href="{{ project.project_url1 }}" class="button alt">Project repo 1
+																</a>
+															{% endif %}
+															{% if project.project_url2 != ""%}
+																<a href="{{ project.project_url2 }}" class="button alt">Project repo 2
+																</a>
+															{% endif %}
+															{% if project.project_url3 != ""%}
+																<a href="{{ project.project_url3 }}" class="button alt">Project repo 3
+																</a>
+															{% endif %}
+															{% if project.project_url4 != ""%}
+																<a href="{{ project.project_url4 }}" class="button alt">Project repo 4
+																</a>
+															{% endif %}
+															{% if project.project_url5 != ""%}
+																<a href="{{ project.project_url5 }}" class="button alt">Project repo 5
+																</a>
+															{% endif %}
+															{% if project.project_url6 != ""%}
+																<a href="{{ project.project_url6 }}" class="button alt">Project repo 6
+																</a>
+															{% endif %}
+														</div>
+													</footer>
+												</section>
+											</div>
+										{% endfor %}
+									</div>
+								</section>
+
+						</div>
+					</div>

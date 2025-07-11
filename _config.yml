@@ -1,0 +1,10 @@
+# Site settings
+name: Social Networking
+title: Social Networking
+description: > # this means to ignore newlines until "baseurl:"
+  Progetti del corso Social Networking del Politecnico di Torino nel 2017.
+baseurl: "" # the subpath of your site, e.g. /blog
+paginate: 10
+
+# Build settings
+markdown: kramdown
