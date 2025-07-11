@@ -10,5 +10,5 @@ project_url3: "https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-proj
 project_url4: ""
 project_url5: ""
 project_url6: ""
-description: "GymTrackerAI è un'applicazione progettata per offrire un sistema completo di monitoraggio delle attività fisiche, pensato per l’allenamento in palestra. Si basa sull’uso del dispositivo SensorTile.box PRO di STMicroelectronics per la raccolta dei dati biometrici e prevede l’utilizzo di due modelli di Machine Learning: uno eseguito direttamente sulla board e uno integrato nello smartphone. "
+description: "GymTrackerAI è un'applicazione progettata per offrire un sistema completo di monitoraggio delle attività fisiche, pensato per l'allenamento in palestra. Si basa sull'uso del dispositivo SensorTile.box PRO di STMicroelectronics per la raccolta dei dati biometrici e prevede l'utilizzo di due modelli di Machine Learning: uno eseguito direttamente sulla board e uno integrato nello smartphone. "
 ---
