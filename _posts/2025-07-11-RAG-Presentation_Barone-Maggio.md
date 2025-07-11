@@ -1,5 +1,5 @@
 ---
-title: "Sistemi RAG per accedere a informazioni universitarie"
+title: "SistemiRAGUnisalento"
 date: 2025-07-11 15:22:53 +0200
 categories: projects
 img_url: https://unisalento-idalab-iotcourse-2024-2025.github.io/wot-project-2024-2025--rag-presentation/img/usecase_example.png
