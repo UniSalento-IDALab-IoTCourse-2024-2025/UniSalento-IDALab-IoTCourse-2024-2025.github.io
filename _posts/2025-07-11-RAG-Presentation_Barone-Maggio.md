@@ -10,6 +10,6 @@ project_url3: "https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-proj
 project_url4: ""
 project_url5: ""
 project_url6: ""
-description: "Il sistema sviluppato fornisce assistenza informativa agli studenti universitari tramite un agente conversazionale intelligente. L’utente può porre domande su scadenze, moduli, regolamenti e ricevere risposte mirate e aggiornate, grazie all'integrazione tra modelli linguistici e documenti ufficiali del sito unisalento.it."
+description: "Il sistema sviluppato fornisce assistenza informativa agli studenti universitari tramite un agente conversazionale intelligente. Lutente può porre domande su scadenze, moduli, regolamenti e ricevere risposte mirate e aggiornate, grazie all'integrazione tra modelli linguistici e documenti ufficiali del sito unisalento.it."
 ---
 
