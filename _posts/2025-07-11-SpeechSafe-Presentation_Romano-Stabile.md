@@ -11,4 +11,5 @@ project_url4: ""
 project_url5: ""
 project_url6: ""
 description: "Il progetto si propone di sviluppare un sistema intelligente per la protezione uditiva e la comunicazione in ambienti di lavoro rumorosi, utilizzando una infrastruttura IoT composta da Raspberry Pi, cuffie Bluetooth e beacon BLE."
+students : "Francesco Stabile - Gabriele Romano"
 ---
