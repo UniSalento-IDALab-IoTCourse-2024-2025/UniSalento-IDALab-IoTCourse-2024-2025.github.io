@@ -11,4 +11,5 @@ project_url4: "https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-proj
 project_url5: ""
 project_url6: ""
 description: "Taxi AI è un progetto Python che utilizza tecniche di Natural Language Processing (NLP) per riconoscere richieste di prenotazione taxi in linguaggio naturale, estrarre date e orari, e verificare la disponibilità degli autisti su un database CSV."
+students : "Luigi Roberti - Cristian Golia"
 ---
