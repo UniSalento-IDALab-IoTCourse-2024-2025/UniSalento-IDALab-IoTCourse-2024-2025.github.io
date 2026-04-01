@@ -11,4 +11,5 @@ project_url4: ""
 project_url5: ""
 project_url6: ""
 description: "B.U.S. nasce per rendere il trasporto scolastico più sicuro, trasparente e connesso, grazie all’integrazione di tecnologie intelligenti. L’obiettivo è monitorare in modo automatico e preciso la presenza dei bambini a bordo dello scuolabus, superando i limiti degli attuali sistemi manuali basati su elenchi cartacei o memoria individuale."
+students: "Alessia Prima - Francesco Bisanti"
 ---
