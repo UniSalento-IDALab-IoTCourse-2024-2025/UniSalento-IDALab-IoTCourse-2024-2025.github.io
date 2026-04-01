@@ -11,4 +11,5 @@ project_url4: "https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-proj
 project_url5: ""
 project_url6: ""
 description: "DriveMood è una piattaforma end‑to‑end che integra un’app mobile, un backend FastAPI e una dashboard React per monitorare in modo continuo lo stile di guida e stimare in tempo reale l’urgenza di manutenzione dei veicoli."
+students: "Ilenia Nestola - Beatrice Pagano"
 ---
